@@ -1,0 +1,11 @@
+models\Utilisateur.class
+servlets\DashboardServlet.class
+filters\AdminFilter.class
+servlets\LoginServlet.class
+models\EspecePoisson.class
+connect\Connexion.class
+models\Bassin.class
+models\LotPoisson.class
+models\SuiviQuotidien.class
+servlets\BassinServlet.class
+servlets\SuiviServlet.class
